@@ -1,30 +1,30 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 5,
+      "textSpacing" : 7,
       "subtext" : {
         "size" : 12,
-        "colorSelected" : "#A9A9A9FF",
+        "colorSelected" : "#FFFEFECA",
         "font" : "System",
-        "color" : "#A9A9A9FF"
+        "color" : "#FFFEFE7F"
       },
       "shortcut" : {
         "size" : 12,
-        "colorSelected" : "#FEFFFFCB",
+        "colorSelected" : "#FFFEFEFF",
         "font" : "System",
-        "color" : "#797979FF"
+        "color" : "#FFFEFE7F"
       },
       "backgroundSelected" : "#00000040",
       "text" : {
-        "size" : 16,
-        "colorSelected" : "#EAEAEAFF",
+        "size" : 15,
+        "colorSelected" : "#FFFEFEFF",
         "font" : "System",
-        "color" : "#EAEAEAFF"
+        "color" : "#FFFEFEFF"
       },
-      "iconPaddingHorizontal" : 5,
-      "roundness" : 6,
-      "paddingVertical" : 5,
-      "iconSize" : 36
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 5,
+      "paddingVertical" : 10,
+      "iconSize" : 34
     },
     "search" : {
       "backgroundSelected" : "#0000004C",
@@ -50,13 +50,14 @@
       "roundness" : 10,
       "paddingVertical" : 10
     },
+    "credit" : "imzxj",
     "visualEffectMode" : 2,
     "separator" : {
       "color" : "#0000000C",
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#00000019",
+      "color" : "#D5D5D54C",
       "thickness" : 3
     },
     "name" : "System Dark"
